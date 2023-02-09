@@ -1,0 +1,3 @@
+This program launches the Chrome browser and open the link "https://jobs.homesteadstudio.co/data-engineer/assessment/download/" to download the excel file to be processed. Data will then be preprocessed before saving into database. 
+
+Ensure that the program have admin rights to the C drive so that the downloaded file will be saved automatically to the set folder.
